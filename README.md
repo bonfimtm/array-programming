@@ -1,6 +1,6 @@
 # array-programming
 
-NumPy and Array Programming
+Array Programming with Python
 
 ## Build Image
 ```sh
